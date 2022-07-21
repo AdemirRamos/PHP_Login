@@ -62,6 +62,11 @@
 			margin-top: 15px;
 			color: purple;
 			font-weight: bolder;
+			text-decoration: none;
+		}
+
+		a:hover {
+			text-decoration: underline;
 		}
 
 		.submit-button {
@@ -99,7 +104,7 @@
 			<input type="password" name="new_password" placeholder="Enter you password here" class="marginBottom">
 			<input type="submit" name="submit-data" value="Submit Data" class="marginBottom submit-button">
 
-			<a href="index.php">Return To Login Page</a>
+			<a href="login.php">Return To Login Page</a>
 
 		</fieldset>
 

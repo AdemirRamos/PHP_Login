@@ -97,6 +97,11 @@
 		.link {
 			color: purple;
 			font-weight: bolder;
+			text-decoration: none;
+		}
+
+		.link:hover {
+			text-decoration: underline;
 		}
 
 	</style>

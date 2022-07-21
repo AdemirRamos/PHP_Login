@@ -3,6 +3,6 @@
 session_start();
 
 if (!isset($_SESSION['username'])) {
-	header('Location: index.php?error=true');
+	header('Location: login.php?error=true');
 	exit;
 }
