@@ -16,4 +16,4 @@ In this project, I've created a login menu with PHP.
 
 <img alt="This is the home page of the project." src="./Login/Images/home.png">
 
-<strong><p>P. S.: This project isn't done yet.</p></strong>
+<p><strong>P. S.: This project isn't done yet. - That's due to I can't install MySQL in my machine.</strong></p>
